@@ -1,7 +1,7 @@
 title:            MNUWORLD
 description:      "Just Blog"
 logo:             omikron.png
-disqus_shortname: mnuwolrd
+disqus_shortname: antokhan
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
 search:           true
